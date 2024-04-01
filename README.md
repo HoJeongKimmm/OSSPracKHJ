@@ -5,4 +5,6 @@ B
 C    
 D    
 E    
-F    
+D
+rebase는 버전 유지하면서 기준점만 바꾸기    
+merge는 합치기
