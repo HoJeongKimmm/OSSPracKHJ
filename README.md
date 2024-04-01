@@ -1,6 +1,6 @@
 # ossprac
-fetch & merge
-A
-B
-C
-D
+fetch & merge    
+A    
+B    
+C    
+D    
